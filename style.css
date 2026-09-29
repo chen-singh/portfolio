@@ -808,29 +808,6 @@ ul {
     color: #8994a5;
     font-size: 12px;
 }
-.typing-text {
-    min-height: 45px;
-}
-
-.typing-text #typing {
-    color: #00c6ff;
-}
-
-.cursor {
-    color: #00c6ff;
-    font-weight: 700;
-    animation: blink 0.7s infinite;
-}
-
-@keyframes blink {
-    0%, 50% {
-        opacity: 1;
-    }
-
-    51%, 100% {
-        opacity: 0;
-    }
-}
 
 /*  SCROLL TOP */
 
